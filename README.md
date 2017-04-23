@@ -1,8 +1,9 @@
 # Restful API Boilerplate for Node.js/Expressjs Applications
 
+[![Travis CI](https://img.shields.io/travis/amandeepmittal/restapi-boilerplate.svg?style=flat-square)](https://travis-ci.org/amandeepmittal/restapi-boilerplate)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-This repo is production ready!
+This minimalistic repo is production ready!
 
 ![](https://trainingprdcdnendpoint.azureedge.net/Images/nodejs-520.jpg)
 
